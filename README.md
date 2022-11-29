@@ -13,13 +13,13 @@ Design the Model, which predict the Best Car price.
 
 ## :chart_with_upwards_trend:Analysis Screenshots
 
-                            Chart of features
+### Chart of features
 ![Chart of features](https://user-images.githubusercontent.com/116812639/204527210-2551105f-6b55-4fc3-9971-e12cd9fb0d27.jpeg)
 
-                            Normality Of residual
+### Normality Of residual
 ![Normality Of residual](https://user-images.githubusercontent.com/116812639/204528096-78892fae-0114-4bd7-86e6-4cc5ad15b8bd.png)
 
-                            Linearity between on dependent column
+### Linearity between on dependent column
 ![Linearity between on dependent column](https://user-images.githubusercontent.com/116812639/204528262-1f7e02c3-7a22-4540-867c-84425aa2b227.png)
 
 ## :scroll:Features
