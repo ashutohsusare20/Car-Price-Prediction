@@ -12,17 +12,15 @@ To select the best Car, and to predict car price have been never that much simpl
 Design the Model, which predict the Best Car price.
 
 ## :chart_with_upwards_trend:Analysis Screenshots
-                            Heatmap of Medical charges
-![Heatmap of Medical charges](https://user-images.githubusercontent.com/116812639/201911803-07870a88-d1d1-4fb0-94ae-9e2ccafda21c.png)
 
                             Chart of features
-![Chart of features](![Bar](https://user-images.githubusercontent.com/116812639/204527210-2551105f-6b55-4fc3-9971-e12cd9fb0d27.jpeg))
+![Chart of features](https://user-images.githubusercontent.com/116812639/204527210-2551105f-6b55-4fc3-9971-e12cd9fb0d27.jpeg)
 
                             Normality Of residual
-![Normality Of residual](![image](https://user-images.githubusercontent.com/116812639/204528096-78892fae-0114-4bd7-86e6-4cc5ad15b8bd.png))
+![Normality Of residual](https://user-images.githubusercontent.com/116812639/204528096-78892fae-0114-4bd7-86e6-4cc5ad15b8bd.png)
 
                             Linearity between on dependent column
-![Linearity between on dependent column](![image](https://user-images.githubusercontent.com/116812639/204528262-1f7e02c3-7a22-4540-867c-84425aa2b227.png))
+![Linearity between on dependent column](https://user-images.githubusercontent.com/116812639/204528262-1f7e02c3-7a22-4540-867c-84425aa2b227.png)
 
 ## :scroll:Features
 
